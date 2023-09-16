@@ -1,0 +1,22 @@
+.form-container{
+
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+    padding: 20px;
+    box-shadow: 1px 1px 4px 1px #bfbfbf;
+}
+.bg-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container{
+    margin-bottom: 20px;
+}
+
+.button{
+    height: 30px;
+    width: 138px;
+    margin-top: 20px;
+}
